@@ -194,13 +194,14 @@
 - `2181`. Merge Nodes in Between Zeros
 - `2326`. Spiral Matrix IV
 
-### Hard (9 Solved)
+### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
 - `2435`. Paths in Matrix Whose Sum is Divisible by K ❓
 - `2872`. Maximum Number of K-Divisible Components ❓
 - `757`. Set Intersection Size At Least Two (Sort + Greedy ✅)
+- `239`. Sliding Window Maximum
 - `42`. Trapping Rain Water
 - `4`. Median of Two Sorted Arrays (Suboptimal ✅, Optimal ❌)
 - `2296`. Design a Text Editor (Stack ✅, Some other method ❌)
