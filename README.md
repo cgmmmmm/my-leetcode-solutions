@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (95 Solved)
+### Easy (96 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -96,6 +96,7 @@
 - `2839`. Check if Strings Can be Made Equal With Operations I
 - `3740`. Minimum Distance Between Three Equal Elements I
 - `3783`. Mirror Distance of an Integer
+- `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
 
 ### Medium (98 Solved)
 - `49`. Group Anagrams
