@@ -99,7 +99,7 @@
 - `94`. Binary Tree Inorder Traversal (Recursive✅, Iterative❌)
 - `226`. Invert Binary Tree
 
-### Medium (98 Solved)
+### Medium (99 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -198,6 +198,7 @@
 - `2326`. Spiral Matrix IV
 - `1855`. Maximum Distance Between a Pair of Values (Binary Search ✅, Two Pointers ❌)
 - `2615`. Sum of Distances
+- `788`. Rotated Digits (Bruteforce✅, DP❌)
 
 ### Hard (10 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
