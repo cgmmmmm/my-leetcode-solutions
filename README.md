@@ -157,7 +157,7 @@
 - `1046`. Last Stone Weight
 - `3870`. Count Commas in Range
 
-### Medium (197 Solved)
+### Medium (198 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -356,6 +356,7 @@
 - `491`. Non-decreasing Subsequences
 - `89`. Gray Code
 - `3871`. Count Commas in Range II
+- `2265`. Count Nodes Equal to Average of Subtree
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
