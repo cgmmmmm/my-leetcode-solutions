@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (155 Solved)
+### Easy (157 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -156,6 +156,8 @@
 - `232`. Implement Queue using Stacks
 - `1046`. Last Stone Weight
 - `3870`. Count Commas in Range
+- `3483`. Unique 3-Digit Even Numbers
+- `2769`. Find the Maximum Achievable Number
 
 ### Medium (198 Solved)
 - `49`. Group Anagrams
