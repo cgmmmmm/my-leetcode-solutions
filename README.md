@@ -159,7 +159,7 @@
 - `3483`. Unique 3-Digit Even Numbers
 - `2769`. Find the Maximum Achievable Number
 
-### Medium (198 Solved)
+### Medium (199 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -359,6 +359,7 @@
 - `89`. Gray Code
 - `3871`. Count Commas in Range II
 - `2265`. Count Nodes Equal to Average of Subtree
+- `835`. Image Overlap
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
