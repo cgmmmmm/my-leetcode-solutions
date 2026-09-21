@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (158 Solved)
+### Easy (159 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -159,6 +159,7 @@
 - `3483`. Unique 3-Digit Even Numbers
 - `2769`. Find the Maximum Achievable Number
 - `144`. Binary Tree Preorder Traversal
+- `145`. Binary Tree Postorder Traversal
 
 ### Medium (200 Solved)
 - `49`. Group Anagrams
