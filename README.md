@@ -161,7 +161,7 @@
 - `144`. Binary Tree Preorder Traversal
 - `145`. Binary Tree Postorder Traversal
 
-### Medium (202 Solved)
+### Medium (203 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -365,6 +365,7 @@
 - `2433`. Find The Original Array of Prefix Xor
 - `2109`. Adding Spaces to a String
 - `2708`. Maximum Strength of a Group
+- `1382`. Balance a Binary Search Tree
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
