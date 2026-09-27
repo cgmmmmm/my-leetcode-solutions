@@ -161,7 +161,7 @@
 - `144`. Binary Tree Preorder Traversal
 - `145`. Binary Tree Postorder Traversal
 
-### Medium (205 Solved)
+### Medium (206 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -368,6 +368,7 @@
 - `1382`. Balance a Binary Search Tree
 - `1305`. All Elements in Two Binary Search Trees
 - `1807`. Evaluate the Bracket Pairs of a String
+- `1190`. Reverse Substrings Between Each Pair of Parentheses
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
