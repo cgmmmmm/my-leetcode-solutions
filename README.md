@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (159 Solved)
+### Easy (160 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -160,6 +160,7 @@
 - `2769`. Find the Maximum Achievable Number
 - `144`. Binary Tree Preorder Traversal
 - `145`. Binary Tree Postorder Traversal
+- `1614`. Maximum Nesting Depth of the Parentheses
 
 ### Medium (206 Solved)
 - `49`. Group Anagrams
