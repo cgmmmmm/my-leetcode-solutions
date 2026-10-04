@@ -163,7 +163,7 @@
 - `1614`. Maximum Nesting Depth of the Parentheses
 - `108`. Convert Sorted Array to Binary Search Tree
 
-### Medium (208 Solved)
+### Medium (209 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -373,6 +373,7 @@
 - `1190`. Reverse Substrings Between Each Pair of Parentheses
 - `109`. Convert Sorted List to Binary Search Tree
 - `43`. Multiply Strings
+- `1038`. Binary Search Tree to Greater Sum Tree
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
