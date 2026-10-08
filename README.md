@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (161 Solved)
+### Easy (162 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -162,6 +162,7 @@
 - `145`. Binary Tree Postorder Traversal
 - `1614`. Maximum Nesting Depth of the Parentheses
 - `108`. Convert Sorted Array to Binary Search Tree
+- `1021`. Remove Outermost Parentheses
 
 ### Medium (212 Solved)
 - `49`. Group Anagrams
