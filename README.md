@@ -164,7 +164,7 @@
 - `108`. Convert Sorted Array to Binary Search Tree
 - `1021`. Remove Outermost Parentheses
 
-### Medium (212 Solved)
+### Medium (213 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -378,6 +378,7 @@
 - `856`. Score of Parentheses
 - `921`. Minimum Add to Make Parentheses Valid
 - `1111`. Maximum Nesting Depth of Two Valid Parentheses Strings
+- `1541`. Minimum Insertions to Balance a Parentheses String
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
