@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (162 Solved)
+### Easy (163 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -163,6 +163,7 @@
 - `1614`. Maximum Nesting Depth of the Parentheses
 - `108`. Convert Sorted Array to Binary Search Tree
 - `1021`. Remove Outermost Parentheses
+- `2778`. Sum of Squares of Special Elements 
 
 ### Medium (214 Solved)
 - `49`. Group Anagrams
