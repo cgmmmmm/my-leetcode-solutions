@@ -165,7 +165,7 @@
 - `1021`. Remove Outermost Parentheses
 - `2778`. Sum of Squares of Special Elements 
 
-### Medium (215 Solved)
+### Medium (216 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -382,6 +382,7 @@
 - `1541`. Minimum Insertions to Balance a Parentheses String
 - `2333`. Minimum Sum of Squared Difference
 - `1282`. Group the People Given the Group Size They Belong To
+- `3727`. Maximum Alternating Sum of Squares
 
 ### Hard (20 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
