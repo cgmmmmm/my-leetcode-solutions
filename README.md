@@ -386,7 +386,7 @@
 - `3727`. Maximum Alternating Sum of Squares
 - `3723`. Maximize Sum of Squares of Digits
 
-### Hard (20 Solved)
+### Hard (21 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -407,6 +407,7 @@
 - `857`. Minimum Cost to Hire K Workers
 - `3518`. Smallest Palindromic Rearrangement II
 - `84`. Largest Rectangle in Histogram
+- `301`. Remove Invalid Parentheses
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
