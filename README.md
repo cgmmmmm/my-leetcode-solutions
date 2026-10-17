@@ -166,7 +166,7 @@
 - `2778`. Sum of Squares of Special Elements
 - `2913`. Subarrays Distinct Element Sum of Squares I
 
-### Medium (217 Solved)
+### Medium (218 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -385,6 +385,7 @@
 - `1282`. Group the People Given the Group Size They Belong To
 - `3727`. Maximum Alternating Sum of Squares
 - `3723`. Maximize Sum of Squares of Digits
+- `3551`. Minimum Swaps to Sort by Digit Sum
 
 ### Hard (21 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
