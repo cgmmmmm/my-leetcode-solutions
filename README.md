@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (164 Solved)
+### Easy (165 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -165,6 +165,7 @@
 - `1021`. Remove Outermost Parentheses
 - `2778`. Sum of Squares of Special Elements
 - `2913`. Subarrays Distinct Element Sum of Squares I
+- `2089`. Find Target Indices After Sorting Array
 
 ### Medium (219 Solved)
 - `49`. Group Anagrams
