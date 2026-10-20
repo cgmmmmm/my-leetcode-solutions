@@ -389,7 +389,7 @@
 - `3551`. Minimum Swaps to Sort by Digit Sum
 - `24`. Swap Nodes in Pairs
 
-### Hard (21 Solved)
+### Hard (22 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -411,6 +411,7 @@
 - `3518`. Smallest Palindromic Rearrangement II
 - `84`. Largest Rectangle in Histogram
 - `301`. Remove Invalid Parentheses
+- `3886`. Sum of Sortable Integers
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
