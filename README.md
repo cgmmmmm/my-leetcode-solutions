@@ -167,7 +167,7 @@
 - `2913`. Subarrays Distinct Element Sum of Squares I
 - `2089`. Find Target Indices After Sorting Array
 
-### Medium (220 Solved)
+### Medium (221 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -389,6 +389,7 @@
 - `3551`. Minimum Swaps to Sort by Digit Sum
 - `24`. Swap Nodes in Pairs
 - `3863`. Minimum Operations to Sort a String
+- `3644`. Maximum K to Sort a Permutation
 
 ### Hard (22 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
