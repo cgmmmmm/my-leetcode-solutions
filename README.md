@@ -165,7 +165,7 @@
 - `1021`. Remove Outermost Parentheses
 - `2778`. Sum of Squares of Special Elements
 - `2913`. Subarrays Distinct Element Sum of Squares I
-- `2089`. Find Target Indices After Sorting Array
+- `2409`. Count Days Spent Together
 
 ### Medium (221 Solved)
 - `49`. Group Anagrams
