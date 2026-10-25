@@ -167,7 +167,7 @@
 - `2913`. Subarrays Distinct Element Sum of Squares I
 - `2409`. Count Days Spent Together
 
-### Medium (221 Solved)
+### Medium (222 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -390,6 +390,7 @@
 - `24`. Swap Nodes in Pairs
 - `3863`. Minimum Operations to Sort a String
 - `3644`. Maximum K to Sort a Permutation
+- `1254`. Number of Closed Islands
 
 ### Hard (22 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
