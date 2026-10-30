@@ -396,7 +396,7 @@
 - `3882`. Minimum XOR Path in a Grid
 - `200`. Number of Islands
 
-### Hard (22 Solved)
+### Hard (23 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -419,6 +419,7 @@
 - `84`. Largest Rectangle in Histogram
 - `301`. Remove Invalid Parentheses
 - `3886`. Sum of Sortable Integers
+- `827`. Making A Large Island
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
