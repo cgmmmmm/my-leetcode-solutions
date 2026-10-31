@@ -167,7 +167,7 @@
 - `2913`. Subarrays Distinct Element Sum of Squares I
 - `2409`. Count Days Spent Together
 
-### Medium (226 Solved)
+### Medium (227 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -395,6 +395,7 @@
 - `695`. Max Area of Island
 - `3882`. Minimum XOR Path in a Grid
 - `200`. Number of Islands
+- `3665`. Twisted Mirror Path Count
 
 ### Hard (23 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
