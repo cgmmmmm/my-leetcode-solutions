@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (165 Solved)
+### Easy (166 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -166,6 +166,7 @@
 - `2778`. Sum of Squares of Special Elements
 - `2913`. Subarrays Distinct Element Sum of Squares I
 - `2409`. Count Days Spent Together
+- `3736`. Minimum Moves to Equal Array Elements III
 
 ### Medium (229 Solved)
 - `49`. Group Anagrams
