@@ -400,7 +400,7 @@
 - `453`. Minimum Moves to Equal Array Elements
 - `462`. Minimum Moves to Equal Array Elements II
 
-### Hard (23 Solved)
+### Hard (24 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -424,6 +424,7 @@
 - `301`. Remove Invalid Parentheses
 - `3886`. Sum of Sortable Integers
 - `827`. Making A Large Island
+- `3505`. Minimum Operations to Make Elements Within K Subarrays Equal ❓
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
