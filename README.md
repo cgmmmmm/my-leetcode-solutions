@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (166 Solved)
+### Easy (167 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -167,6 +167,7 @@
 - `2913`. Subarrays Distinct Element Sum of Squares I
 - `2409`. Count Days Spent Together
 - `3736`. Minimum Moves to Equal Array Elements III
+- `1385`. Find the Distance Value Between Two Arrays
 
 ### Medium (229 Solved)
 - `49`. Group Anagrams
