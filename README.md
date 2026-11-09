@@ -404,7 +404,7 @@
 - `1882`. Process Tasks Using Servers
 - `1267`. Count Servers that Communicate
 
-### Hard (24 Solved)
+### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
 - `2528`. Maximize the Minimum Powered City ❓
 - `1611`. Minimum One Bit Operations to Make Integers Zero ❓
@@ -429,6 +429,7 @@
 - `3886`. Sum of Sortable Integers
 - `827`. Making A Large Island
 - `3505`. Minimum Operations to Make Elements Within K Subarrays Equal ❓
+- `1606`. Find Servers That Handled Most Number of Requests
 
 ### Weekly Contest
 * WC502 (✅, ✅, ❌, ❌)
