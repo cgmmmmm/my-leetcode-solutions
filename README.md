@@ -169,7 +169,7 @@
 - `3736`. Minimum Moves to Equal Array Elements III
 - `1385`. Find the Distance Value Between Two Arrays
 
-### Medium (234 Solved)
+### Medium (235 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -405,6 +405,7 @@
 - `1267`. Count Servers that Communicate
 - `1905`. Count Sub Islands
 - `3693`. Climbing Stairs II
+- `3857`. Minimum Cost to Split into Ones
 
 ### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
