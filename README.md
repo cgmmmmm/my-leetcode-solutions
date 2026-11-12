@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (167 Solved)
+### Easy (168 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -168,6 +168,7 @@
 - `2409`. Count Days Spent Together
 - `3736`. Minimum Moves to Equal Array Elements III
 - `1385`. Find the Distance Value Between Two Arrays
+- `3105`. Longest Strictly Increasing or Strictly Decreasing Subarray
 
 ### Medium (237 Solved)
 - `49`. Group Anagrams
