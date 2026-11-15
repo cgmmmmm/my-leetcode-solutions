@@ -171,7 +171,7 @@
 - `3105`. Longest Strictly Increasing or Strictly Decreasing Subarray
 - `3364`. Minimum Positive Sum Subarray 
 
-### Medium (238 Solved)
+### Medium (239 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -411,6 +411,7 @@
 - `3789`. Minimum Cost to Acquire Required Items
 - `1277`. Count Square Submatrices with All Ones
 - `1641`. Count Sorted Vowel Strings
+- `1524`. Number of Sub-arrays With Odd Sum
 
 ### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
