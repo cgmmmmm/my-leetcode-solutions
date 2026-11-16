@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (169 Solved)
+### Easy (170 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -170,6 +170,7 @@
 - `1385`. Find the Distance Value Between Two Arrays
 - `3105`. Longest Strictly Increasing or Strictly Decreasing Subarray
 - `3364`. Minimum Positive Sum Subarray 
+- `2243`. Calculate Digit Sum of a String
 
 ### Medium (239 Solved)
 - `49`. Group Anagrams
