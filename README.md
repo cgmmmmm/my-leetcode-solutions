@@ -172,7 +172,7 @@
 - `3364`. Minimum Positive Sum Subarray 
 - `2243`. Calculate Digit Sum of a String
 
-### Medium (239 Solved)
+### Medium (240 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -413,6 +413,7 @@
 - `1277`. Count Square Submatrices with All Ones
 - `1641`. Count Sorted Vowel Strings
 - `1524`. Number of Sub-arrays With Odd Sum
+- `1689`. Partitioning Into Minimum Number Of Deci-Binary Numbers
 
 ### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
