@@ -173,7 +173,7 @@
 - `2243`. Calculate Digit Sum of a String
 - `3411`. Maximum Subarray With Equal Products
 
-### Medium (244 Solved)
+### Medium (245 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -419,6 +419,7 @@
 - `2567`. Minimum Score by Changing Two Elements
 - `1302`. Deepest Leaves Sum
 - `654`. Maximum Binary Tree
+- `1817`. Finding the Users Active Minutes
 
 ### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
