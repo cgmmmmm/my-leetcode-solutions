@@ -1,6 +1,6 @@
 ## Solved Problems (In order)
 #### ( ✅ - Implemented solution | ❌ - Not implemented solution | ❓ - Will return | [No emoji] - Generally solved )
-### Easy (171 Solved)
+### Easy (172 Solved)
 - `704`. Binary Search
 - `217`. Contains Duplicate
 - `219`. Contains Duplicate II
@@ -172,6 +172,7 @@
 - `3364`. Minimum Positive Sum Subarray 
 - `2243`. Calculate Digit Sum of a String
 - `3411`. Maximum Subarray With Equal Products
+- `3360`. Stone Removal Game
 
 ### Medium (245 Solved)
 - `49`. Group Anagrams
