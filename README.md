@@ -174,7 +174,7 @@
 - `3411`. Maximum Subarray With Equal Products
 - `3360`. Stone Removal Game
 
-### Medium (245 Solved)
+### Medium (246 Solved)
 - `49`. Group Anagrams
 - `128`. Longest Consecutive Sequence
 - `347`. Top K Frequent Elements (Sorting✅, Heap(Priority Queue)❌, Bucket Sort❌, Quick Select(Partial Sort)❌, Counter's most_common()❌) ❓
@@ -421,6 +421,7 @@
 - `1302`. Deepest Leaves Sum
 - `654`. Maximum Binary Tree
 - `1817`. Finding the Users Active Minutes
+- `2610`. Convert an Array Into a 2D Array With Conditions
 
 ### Hard (25 Solved)
 - `3321`. Find X-Sum of All K-Long Subarrays II ❓
